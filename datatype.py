@@ -12,9 +12,9 @@ print(channelName[1:4])
 print(channelName[5:10:2])
 print(channelName[:4])
 print(channelName[::-1])
-cN = "maheshroman"+"naresh"
+cN = "manoj"
 print(cN)
-cnl = "maheshroman"*3
+cnl = "manoj"*3
 print(cnl)
 channelNames = "mahesh is handsome"
 print("handsome" in  channelNames)
